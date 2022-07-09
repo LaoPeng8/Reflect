@@ -1,0 +1,2 @@
+className=org.pjj.reflect.Person
+methodName=staticMethod

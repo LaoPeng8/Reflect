@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dogs>
+    <dog id="1">
+        <name>YAYA</name>
+        <score>100</score>
+        <level>10</level>
+    </dog>
+    <dog id="2">
+        <name>OUOU</name>
+        <score>90</score>
+        <level>15</level>
+    </dog>
+    <dog id="3">
+        <name>wangcai</name>
+        <score>100</score>
+        <level>99</level>
+    </dog>
+</dogs>
